@@ -202,10 +202,10 @@ header{
 
 
 .card.shuffle-left{
-    transform: translateX(300px) translateY(40px);
+    transform: translateX(175px) translateY(40px);
 }
 .card.shuffle-right{
-    transform: translateX(-350px) translateY(-40px);
+    transform: translateX(-175px) translateY(-40px);
 }
 .card.fly-in{
     transform: translateY(-1000px) translateX(-600px) rotate(45deg);
